@@ -1,0 +1,28 @@
+{
+  "name": "bookinbylonelyboy",
+  "version": "1.0.0",
+  "description": "Booking site for cabins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elmo-H/BookInbyLonelyBOY.git"
+  },
+  "author": "LonelyBOY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elmo-H/BookInbyLonelyBOY/issues"
+  },
+  "homepage": "https://github.com/Elmo-H/BookInbyLonelyBOY#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-livereload": "^4.0.2",
+    "sass": "^1.51.0"
+  }
+}
