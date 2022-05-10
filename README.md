@@ -1,2 +1,0 @@
-# BookInbyLonelyBOY
-School backend project
